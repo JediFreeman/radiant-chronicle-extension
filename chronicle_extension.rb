@@ -2,7 +2,7 @@
 require_dependency 'application_controller'
 
 class ChronicleExtension < Radiant::Extension
-  version "2.0"
+  version "2.1"
   description "Keeps historical versions of pages and allows drafts of published pages."
   url "http://github.com/jgarber/radiant-chronicle-extension/"
 
